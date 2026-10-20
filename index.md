@@ -1,14 +1,16 @@
 # Privacy Policy — Timeliste
 
-_Last updated: 19 July 2026_
+_Last updated: 19 October 2026_
 
 Timeliste is a shift and pay tracking app for private use, published by Christian Larsen (contact: larsenweb3@gmail.com).
 
 ## Data stored by the app
 
-All your shifts, jobs, wage settings and tax-table choices are stored **only on your device**. The app has no user accounts, no server, and never uploads your data anywhere. Deleting the app deletes the data.
+All your shifts, jobs, wage settings and tax-table choices are stored **only on your device**. The app has no user accounts, no server, and never uploads your data anywhere.
 
-Exports (PDF/CSV) are created on your device and only shared where you choose to send them.
+If your phone's own backup is turned on (Google backup on Android, iCloud on iPhone), it may include the app's data in your personal backup, so it can come back when you restore or move to a new phone. That backup is handled by Google or Apple under your account, not by the app. Otherwise, deleting the app deletes the data.
+
+Exports (PDF/CSV) and backup files are created on your device and only shared where you choose to send them.
 
 ## Advertising (free version)
 
@@ -34,15 +36,17 @@ Questions? Email larsenweb3@gmail.com.
 
 # Personvernerklæring — Timeliste (norsk)
 
-_Sist oppdatert: 19. juli 2026_
+_Sist oppdatert: 19. oktober 2026_
 
 Timeliste er en app for føring av vakter og lønn, utgitt av Christian Larsen (kontakt: larsenweb3@gmail.com).
 
 ## Data appen lagrer
 
-Alle vakter, jobber, lønnsinnstillinger og trekktabellvalg lagres **kun på din enhet**. Appen har ingen brukerkontoer, ingen server, og laster aldri opp dataene dine. Sletter du appen, slettes dataene.
+Alle vakter, jobber, lønnsinnstillinger og trekktabellvalg lagres **kun på din enhet**. Appen har ingen brukerkontoer, ingen server, og laster aldri opp dataene dine.
 
-Eksporter (PDF/CSV) lages på enheten og deles bare dit du selv velger å sende dem.
+Har du skrudd på telefonens egen sikkerhetskopi (Google-sikkerhetskopi på Android, iCloud på iPhone), kan den ta med appens data i din personlige sikkerhetskopi, så de kommer tilbake når du gjenoppretter eller bytter telefon. Den sikkerhetskopien håndteres av Google eller Apple på din konto, ikke av appen. Ellers slettes dataene når du sletter appen.
+
+Eksporter (PDF/CSV) og sikkerhetskopifiler lages på enheten og deles bare dit du selv velger å sende dem.
 
 ## Annonser (gratisversjonen)
 
